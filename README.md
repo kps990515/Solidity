@@ -14,3 +14,6 @@
 
 ### 5. [5장](https://github.com/kps990515/Solidity/tree/master/5장)
        구조체와 매핑
+
+### 6. [6장](https://github.com/kps990515/Solidity/tree/master/6장)
+       예외처리
