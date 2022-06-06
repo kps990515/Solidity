@@ -1,12 +1,12 @@
 ## 5장 - 구조체와 매핑
- 
+
  - contract는 최대한 적게 만들자(가스비 비쌈)
 
  #### 구조체
     - 데이터 형식 자유롭게 구현
     - 구조체 안의 구조체는 불가
 
-    ```javascript
+```javascript
     //SPDX-License-Identifier: MIT
 
 pragma solidity ^0.8.4;
@@ -54,4 +54,4 @@ contract MappingsStructExample {
         _to.transfer(balanceToSend);
     }
 }
-    ```
+```
