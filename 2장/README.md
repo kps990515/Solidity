@@ -4,7 +4,7 @@
  - payable 붙은 것에서만 송금 / 수신 가능
  
  1. 함수형
- 2. 주소형 : send, transfer 함수 내장
+ 2. 주소형 : send(예외처리불가), transfer 함수 내장
 
 ```javascript
    pragma solidity ^0.8.14;
