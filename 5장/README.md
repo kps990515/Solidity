@@ -3,11 +3,11 @@
  - contract는 최대한 적게 만들자(가스비 비쌈)
 
  #### 구조체
-    - 데이터 형식 자유롭게 구현
-    - 구조체 안의 구조체는 불가
+- 데이터 형식 자유롭게 구현
+- 구조체 안의 구조체는 불가
 
 ```javascript
-    //SPDX-License-Identifier: MIT
+//SPDX-License-Identifier: MIT
 
 pragma solidity ^0.8.4;
 // 컨트랙트는 최대한 적게 만들자(가스비)
