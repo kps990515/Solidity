@@ -17,3 +17,6 @@
 
 ### 6. [6장](https://github.com/kps990515/Solidity/tree/master/6장)
        예외처리
+
+### 7. [7장](https://github.com/kps990515/Solidity/tree/master/7장)
+       fallback 함수, view/pure 함수
